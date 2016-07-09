@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Bookstore</string>
+    <string name="app_name">Timothy's Bookstore</string>
+    <string name="address">11th Street, 1st Avenue, Calgary, Alberta</string>
+    <string name="maintitle">Timothy's Bookstore</string>
+    <string name="phone">+91-204-3006</string>
+    <string name="title">A Journey to the land of words</string>
+    <string name="email">timothybookstore@gmail.com</string>
+    <string name="desc">This is the best bookstore in the area. A cozy nook, with lots of coffee and bestsellers are readily available. Do come and visit sometime!</string>
 </resources>
